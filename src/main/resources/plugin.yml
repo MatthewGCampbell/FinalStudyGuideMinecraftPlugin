@@ -1,0 +1,4 @@
+name: FinalStudyGuideMinecraftPlugin
+version: '${project.version}'
+main: org.matthew.finalstudyguideminecraftplugin.Main
+api-version: '1.20'
